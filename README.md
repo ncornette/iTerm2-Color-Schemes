@@ -181,6 +181,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/earthsong.png)
 
+###Eighties Dark###
+
+![Screenshot](screenshots/eighties_dark.png)
+
 ###Elemental###
 
 ![Screenshot](screenshots/elemental.png)
